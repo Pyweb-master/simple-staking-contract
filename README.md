@@ -1,12 +1,10 @@
 # staking-contracts
 
-Smart contracts for IBFT PoS
-
 ## How to start
 
 ```shell
-$ git clone https://github.com/0xPolygon/staking-contracts.git
-$ cd staking-contracts
+$ git clone https://github.com/Pyweb-master/simple-staking-contracts.git
+$ cd simple-staking-contracts
 $ npm i
 ```
 
